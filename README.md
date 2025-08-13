@@ -39,13 +39,6 @@ Genera los adapters de Hive:
 flutter pub run build_runner build --delete-conflicting-outputs
 ```
 
-## Estructura del proyecto
-- features/home/data: Implementaciones de repositorios y fuentes de datos.
-- features/home/domain: Entidades, repositorios abstractos y casos de uso.
-- features/home/presentation: UI, controladores y widgets reutilizables.
-- main.dart: Punto de entrada de la app con configuración de rutas y tema.
-
-
 ## Autor
 
 **Robert Andrade**  
